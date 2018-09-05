@@ -1,2 +1,2 @@
 # myPacketSenderBin
-Linux32 binary for [PacketSender](https://github.com/dannagle/PacketSender)
+Linux 32-bit binary for [PacketSender](https://github.com/dannagle/PacketSender)
