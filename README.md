@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+
 # myPacketSenderBin
 Linux 32-bit binary for [PacketSender](https://github.com/dannagle/PacketSender)
 
